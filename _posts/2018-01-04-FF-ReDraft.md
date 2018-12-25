@@ -2,14 +2,13 @@
 layout: post
 title: "Redrafting the 2017 Fantasy Football draft"
 description: "FF 2017"
-category: models
+category: project1
 tags: [football, R]
 comments: false
-excerpt_separator: <!--more-->
 ---
 
 I've been commish in this league for a while now. We've tested about everything from different engines, to different rules, etc. Earlier in the year, my league had a discussion about re-evaluating our draft and looking for high value players.
-<!--more-->
+
 
 -   [Player Performance](#player-performance)
 -   [Draft Results](#draft-results)
@@ -21,7 +20,7 @@ I've been commish in this league for a while now. We've tested about everything 
 <iframe class="huge" src="/images/plots/pre_lim_FFP.html"
     style="max-width = 100%"
     sandbox="allow-same-origin allow-scripts"
-    width="150%"
+    width="100%"
     height="600"
     scrolling="no"
     seamless="seamless"
@@ -986,7 +985,7 @@ Anyway's I'll lead you browse through the rest of it. If you want all of the dat
 <iframe class="huge" src="/images/plots/redraft_FF.html"
     style="max-width = 100%"
     sandbox="allow-same-origin allow-scripts"
-    width="150%"
+    width="100%"
     height="600"
     scrolling="no"
     seamless="seamless"

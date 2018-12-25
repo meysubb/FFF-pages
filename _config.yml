@@ -16,11 +16,11 @@ logo: /FFF-pages/img/logos/FF_logo.png
 github_username:  meysubb
 project_repository: FFF-pages
 disqus_shortname: project-pages
-g-analytics: 
+g-analytics:
 altmetric: true
 
 # Build settings
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
