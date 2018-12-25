@@ -10,7 +10,7 @@ url: "https://meysubb.github.io"
 baseurl: "/FFF-pages"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/FF_logo.png
+logo: /FFF-pages/img/logos/FF_logo.png
 
 # Tertiary Parameters
 github_username:  meysubb
