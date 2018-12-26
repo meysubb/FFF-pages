@@ -16,7 +16,7 @@ logo: /FFF-pages/img/logos/FF_logo.png
 github_username:  meysubb
 project_repository: FFF-pages
 disqus_shortname: project-pages
-g-analytics:
+g-analytics: 'UA-90700102-1'
 altmetric: true
 
 # Build settings
