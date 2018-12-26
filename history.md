@@ -12,18 +12,18 @@ This site is for the Freeman crew to document and keep up with our Fantasy Footb
 
 #### 2018
 
-1 - Sudhish
-2 - Rohit G
-3 - Rohit B
+1 - Sudhish  
+2 - Rohit G  
+3 - Rohit B   
 
 
 [Insert Standings here]
 
 #### 2017
 
-1 - Rohit B
-2 - Saadman R
-3 - Mustafa J
+1 - Rohit B   
+2 - Saadman R  
+3 - Mustafa J  
 
 
 [Insert Standings here]
