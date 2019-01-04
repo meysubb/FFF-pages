@@ -2,52 +2,72 @@
 
 - name: Meyappan S
   role: Comissioner
-  bio: Commisioner since Day 1. Also known for trading first-round draft picks, and tryind weird strategies (two TEs in lineups, etc).
+  bio: Commissioner since Day 1 and founding father of the "Freeman Gang" (a group of kids who grew up playing basketball at an elementary school named after Robert Freeman). Meyappan is well known for trading first-round draft picks, and trying weird strategies (two TEs in lineups, etc). He's already gained support for some innovative scoring changes into 2019.
+  teams: Steelers, Mavs, Aggies, Rangers, Arsenal
+  accomplishment: 3rd place finish in 2016
   visible: true
 
 - name: Chai V
   role: Co-Comissioner
-  bio: League Champion (2015)
+  bio: The rational minded and highly respected presence this league has always appreciated (call him Gandalf if you will). Chai always fields a great team and is usually involved in many FF leagues every year, making him one of the few veterans of the group. He enjoys drafting the BPA and doesn't shy away from having too many WRs.
+  teams: Cowboys, Mavs, Rangers
+  accomplishment: League Champion in 2015
   visible: true
 
 - name: Rohit B
   role: Historian
-  bio: Two Time League Champion (2016/2017)
+  bio: Rohit may not have founded "Freeman Gang", but he was the catalyst along with Meyappan in bringing together the basketball brotherhood. Being a fantasy veteran himself, he tries to identify WR talent at value in the draft and acquire as many lead RBs as possible.
+  teams: Cowboys, Mavs, Longhorns, Rangers
+  accomplishment: Back to Back League Champion in 2016 & 2017
   visible: true
 
 - name: Dhakshin S
   role:
-  bio : League Champion (2014)
+  bio : As Meyappan's brother and the young gun of the group, he has always been a steady competitor both on the court and off. While Dhakshin hasn't shown a consistent style of drafting, it's safe to say doesn't mind the risk that comes with going for the highest upside players.
+  teams: Steelers, Mavs, Aggies, BVB
+  accomplishment: Inaugural League Champion in 2014
   visible: True
 
 - name: Saadman R
   role:
-  bio :
+  bio : Another fantasy veteran in the group, Saadman has also continually fielded a solid team every year. With Sudhish now capturing a ring, the next man due for one has to be him. Look for him to draft RBs early and often, with an emphasis on flex and QB value as well.
+  teams: Eagles, Sixers, Longhorns, Chelsea
+  accomplishment: Runner up finish in 2017
   visible: True
 
 - name: Sudhish S
   role:
-  bio :
+  bio : The happiest sucker of the bunch right now, Sudhish is glowing after securing his first title this year. He had to enduring a last second loss in 2015, but that haunt is now far behind him. His streaming ability was what set him apart in the playoffs this year, and he aims to continue that in 2019 and beyond.
+  teams: Cowboys, Mavs, Longhorns
+  accomplishment: Defending League Champion of 2018
   visible: True
 
 - name: Bhargavesh G
   role:
-  bio:
+  bio: Another OG freeman gang member, Bhargavesh has always made a commitment to balling out in fantasy football despite the busy med-school lifestyle. He's known to be a big fan of WRs and will get the BPA or biggest name available in the draft.
+  teams: Cowboys, Lakers, Mavs, Kobe
+  accomplishment: Runner up finish in 2016
   visible: True
 
 - name: Rohit G
   role:
-  bio :
+  bio : Another one of the BKG to Freeman additions to the league, Gadi has brought a respectable fantasy game. His biggest quirk may be his yearly obsession with drafting the same players (can I get a Keenan Allen?). He finished his second year strong with a finals appearance and looks to build for next year.
+  teams: Cowboys, Mavs, Longhorns
+  accomplishment: Runner up finish 2018
   visible : True
 
 - name: Mustafa J
   role:
-  bio:
+  bio: The self-proclaimed fantasy expert and troll of the group, Mustafa brought a fun element into the league when he joined last year. He's notorious for abusing the waiver wire and trade market to constantly evolve his team. While he's still on the hunt for his first ring, the hours of fantasy podcasts may eventually pay off - until then, the smack talk will come aplenty.
+  teams:  Cowboys, Mavs, Longhorns
+  accomplishment: 3rd place finish in 2017
   visible: True
 
 - name: Subhang A
   role:
-  bio:
+  bio: Newest member to the Freeman League, although he has been a part of the "Freeman Gang" since the early years. Subhang brought some flair and decisive waiver strategy, but came up short this year due to drafting Bell in the first round. Look for him to bounce back strong in 2019.
+  teams: Steelers, Lakers, Trojans
+  accomplishment: Completed first year in league, placed 8th
   visible: True
 
 - name: Justin J

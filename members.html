@@ -32,6 +32,16 @@ header-img: "img/home-bg.jpg"
 	{{ member.bio }}
 	{% endif %}
 
+
+	{% if member.teams %}
+	<h3>{{ member.teams }}</h3>
+	{% endif %}
+
+	{% if member.teams %}
+	<h3>{{ member.accomplishment }}</h3>
+	{% endif %}
+
+
 	<hr>
 
 {% endif %}{% endfor %}
